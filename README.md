@@ -32,7 +32,8 @@ This project was built to provide an immersive experience for participants of th
 
 3.  **Open in your browser:**
     Simply open the `index.html` file to view the landing page in action.
-
+    
+4. **Running on the localhost:8000**
 ## 🗓️ Event Details
 
 *   **Date:** May 7th & 8th, 2026
